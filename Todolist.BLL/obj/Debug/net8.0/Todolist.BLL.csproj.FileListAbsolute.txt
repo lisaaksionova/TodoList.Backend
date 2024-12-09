@@ -1,0 +1,15 @@
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.csproj.AssemblyReference.cache
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.AssemblyInfoInputs.cache
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.AssemblyInfo.cs
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.csproj.CoreCompileInputs.cache
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\bin\Debug\net8.0\Todolist.BLL.deps.json
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\bin\Debug\net8.0\Todolist.BLL.dll
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\bin\Debug\net8.0\Todolist.BLL.pdb
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\bin\Debug\net8.0\Todolist.DAL.dll
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\bin\Debug\net8.0\Todolist.DAL.pdb
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.B24386AA.Up2Date
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.dll
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\refint\Todolist.BLL.dll
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.pdb
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\ref\Todolist.BLL.dll

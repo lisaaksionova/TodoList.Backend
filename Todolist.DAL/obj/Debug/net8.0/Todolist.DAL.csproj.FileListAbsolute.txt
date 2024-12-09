@@ -1,0 +1,14 @@
+D:\Course\Todolist.Backend\Todolist\todolist.dal\bin\Debug\net8.0\Todolist.DAL.deps.json
+D:\Course\Todolist.Backend\Todolist\todolist.dal\bin\Debug\net8.0\Todolist.DAL.dll
+D:\Course\Todolist.Backend\Todolist\todolist.dal\bin\Debug\net8.0\Todolist.DAL.pdb
+D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.AssemblyInfoInputs.cache
+D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.AssemblyInfo.cs
+D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.csproj.CoreCompileInputs.cache
+D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.dll
+D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\refint\Todolist.DAL.dll
+D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.pdb
+D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\ref\Todolist.DAL.dll
+D:\Course\Todolist.Backend\todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.csproj.AssemblyReference.cache
+D:\Course\Todolist.Backend\todolist\todolist.dal\bin\Debug\net8.0\Todolist.DAL.runtimeconfig.json
+D:\Course\Todolist.Backend\todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.genruntimeconfig.cache

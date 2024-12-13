@@ -13,3 +13,4 @@ D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.d
 D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\refint\Todolist.BLL.dll
 D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.pdb
 D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\ref\Todolist.BLL.dll
+D:\Course\Todolist.Backend\Todolist\Todolist.BLL\obj\Debug\net8.0\Todolist.BLL.sourcelink.json

@@ -179,3 +179,4 @@ D:\Course\Todolist.Backend\Todolist\Todolist.WebApi\bin\Debug\net8.0\System.Web.
 D:\Course\Todolist.Backend\Todolist\Todolist.WebApi\bin\Debug\net8.0\System.Web.Http.Cors.dll
 D:\Course\Todolist.Backend\Todolist\Todolist.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Course\Todolist.Backend\Todolist\Todolist.WebApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Course\Todolist.Backend\Todolist\Todolist.WebApi\obj\Debug\net8.0\Todolist.WebApi.sourcelink.json

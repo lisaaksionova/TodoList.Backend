@@ -22,10 +22,9 @@ namespace Todolist.DAL.Repositories.Realizations
             _context = context;
         }
 
-        public async Task<TaskType> CreateAsync(TaskType task)
+        public async Task CreateAsync(TaskType task)
         {
             var tmp = await _context.Tasks.AddAsync(task);
-            return tmp.Entity;
         }
 
         public void Delete(TaskType task)

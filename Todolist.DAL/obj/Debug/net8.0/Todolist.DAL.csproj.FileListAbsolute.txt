@@ -12,3 +12,4 @@ D:\Course\Todolist.Backend\Todolist\todolist.dal\obj\Debug\net8.0\ref\Todolist.D
 D:\Course\Todolist.Backend\todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.csproj.AssemblyReference.cache
 D:\Course\Todolist.Backend\todolist\todolist.dal\bin\Debug\net8.0\Todolist.DAL.runtimeconfig.json
 D:\Course\Todolist.Backend\todolist\todolist.dal\obj\Debug\net8.0\Todolist.DAL.genruntimeconfig.cache
+D:\Course\Todolist.Backend\Todolist\Todolist.DAL\obj\Debug\net8.0\Todolist.DAL.sourcelink.json

@@ -1,0 +1,44 @@
+services:
+  todolist.api: 
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_HTTP_PORTS=5000
+        - ASPNETCORE_HTTPS_PORTS=5001
+    container_name: todolist.api
+    image: todolist.api
+    build:
+        context: .
+        dockerfile: Todolist.WebApi/Dockerfile 
+    ports:
+        - "5000:5000"
+        - "5001:5001"
+    volumes:
+        - ~/.aspnet/https:/https:ro
+    depends_on:
+        database.server:
+            condition: service_healthy
+    
+  database.server:
+    image: "mcr.microsoft.com/mssql/server"
+    container_name: database.server
+    ports:
+    - "1433:1433"
+    environment:
+        - ACCEPT_EULA=y
+        - SA_PASSWORD=Super!str0ngPassword 
+    volumes:
+        - ./sqlserver/data:/var/opt/mssql/data
+        - ./sqlserver/log:/var/opt/mssql/log
+    
+    healthcheck:
+        test: ["CMD", "/opt/mssql-tools/bin/sqlcmd", "-S", "localhost", "-U", "SA", "-P", "Super!str0ngPassword", "-Q", "SELECT 1"]
+        interval: 10s
+        timeout: 5s
+        retries: 10
+        start_period: 30s
+
+
+    
+    
+    
+    

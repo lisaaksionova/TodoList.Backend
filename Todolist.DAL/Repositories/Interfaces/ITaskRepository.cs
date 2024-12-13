@@ -14,7 +14,7 @@ namespace Todolist.DAL.Repositories.Interfaces
         Task<IEnumerable<TaskType>> GetAllAsync();
         Task<TaskType> GetByIdAsync(int id);
         void Delete(TaskType task);
-        Task<TaskType> CreateAsync(TaskType task);
+        Task CreateAsync(TaskType task);
         Task UpdateAsync(TaskType newTask);
         int SaveChanges();
         Task<int> SaveChangesAsync();
